@@ -42,3 +42,4 @@ task2
 task3
 
 UML:
+<img src="UML tpa lab1.drawio.png"/>
